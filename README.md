@@ -9,7 +9,7 @@ Meta boss auto attack boss bot, What is Metaboss ? Metaboss is tap tap game on t
 
 ## Register Metaboss Account
 
-- join metaboss on telegram [HERE](https://t.me/metaboss_2024_bot?start=ref_5703822759)
+- join metaboss on telegram [HERE](https://t.me/metaboss_2024_bot?start=ref_1073814261)
 - Start bot `/start`
 - play `/play`
 
